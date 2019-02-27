@@ -3,7 +3,7 @@ import Parsley from './parsley/main';
 import './parsley/pubsub';
 import './parsley/remote';
 import './i18n/en';
-import './inputevent';
+import inputevent from 'inputevent';
 
 inputevent.install();
 
